@@ -1,0 +1,44 @@
+body {
+  background-image: url(nashad-abdu-102605.jpg)
+;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+    padding-bottom: 400px;
+   
+}
+
+.logo { border-radius: 5px; 
+height: 80px;
+width: 80px;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    
+}
+
+h1 {text-align: right;
+color: white;
+font-size: 300%;
+   font-family: 'Rock Salt', cursive;
+    margin-left: 50%;
+    margin-right: 5%;
+    margin-top: 250px;
+        margin-bottom: 100px ;
+}
+
+.formulario {margin-top: -10px;
+color:white;
+width: 70%; margin-left: 60px;
+}
+
+h2{ 
+color: white; margin-left: 60px;
+    }
+
+
+
+input { color: white;}
+
+.botongrande{background-color: #dfe621}
