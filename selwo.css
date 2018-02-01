@@ -6,7 +6,7 @@ body {
  background-position: center;
  background-size: cover;
     padding-bottom: 400px;
-   
+   margin-left: 100px;
 }
 
 .logo { border-radius: 5px; 
@@ -30,11 +30,11 @@ font-size: 300%;
 
 .formulario {margin-top: -10px;
 color:white;
-width: 70%; margin-left: 60px;
+width: 70%; 
 }
 
 h2{ 
-color: white; margin-left: 60px;
+color: white; 
     }
 
 
